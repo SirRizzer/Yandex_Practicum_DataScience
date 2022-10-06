@@ -7,7 +7,23 @@
 Критерии, которые важны заказчику:
 - качество предсказания;
 - время обучения модели;
-- время предсказания модели.
+- время предсказания модели
+
+## Навыки и инструменты
+
+- **pandas**
+- **matplotlib**
+- **numpy**
+- **pandas_profiling**
+- sklearn.metrics.**mean_squared_error**
+- sklearn.metrics.**make_scorer**
+- sklearn.model_selection.**train_test_split**
+- sklearn.preprocessing.**OrdinalEncoder**
+- sklearn.preprocessing.**StandardScaler**
+- catboost.**CatBoostRegressor**
+- lightgbm.**LGBMRegressor**
+- sklearn.linear_model.**LinearRegression**
+- sklearn.model_selection.**GridSearchCV**
 
 ## Цель исследования
 
