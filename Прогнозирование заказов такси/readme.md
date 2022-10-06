@@ -4,6 +4,23 @@
 
 Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.
 
+## Навыки и инструменты
+
+- **pandas**
+- **matplotlib**
+- **numpy**
+- **time**
+- **pandas_profiling**
+- **seaborn**
+- sklearn.metrics.**mean_squared_error**
+- sklearn.linear_model.**LinearRegression**
+- catboost.**CatBoostRegressor**
+- lightgbm.**LGBMRegressor**
+- sklearn.model_selection.**GridSearchCV**
+- sklearn.model_selection.**train_test_split**
+- sklearn.model_selection.**TimeSeriesSplit**
+- statsmodels.tsa.seasonal.**seasonal_decompose**
+
 ## Цель исследования
 
 Разработка системы предсказания объема заказа.
