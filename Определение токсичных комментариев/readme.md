@@ -5,6 +5,25 @@
 Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.
 Обучите модель классифицировать комментарии на позитивные и негативные. В вашем распоряжении набор данных с разметкой о токсичности правок.
 
+## Навыки и инструменты
+
+- **pandas**
+- **numpy**
+- **re**
+- **nltk**
+- **matplotlib**
+- sklearn.pipeline.**Pipeline**
+- catboost.**CatBoostClassifier**
+- sklearn.tree.**DecisionTreeClassifier**
+- nltk.tokenize.**word_tokenize**
+- nltk.stem.**WordNetLemmatizer**
+- sklearn.model_selection.**train_test_split
+- sklearn.feature_extraction.text.**TfidfVectorizer**
+- sklearn.linear_model.**LogisticRegression**
+- sklearn.metrics.**f1_score**
+- nltk.corpus.**stopwords**
+- sklearn.model_selection.**GridSearchCV**
+
 ## Цель исследования
 
 Определение токсичности комментариев.
