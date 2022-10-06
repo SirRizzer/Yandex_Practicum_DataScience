@@ -8,6 +8,21 @@
 
 Спрогнозировать концентрацию золота при проведении процесса очистки золота 
 
+## Навыки и инструменты
+
+- **pandas**
+- **matplotlib**
+- **numpy**
+- **seaborn**
+- sklearn.metrics.**mean_absolute_error**
+- sklearn.metrics.**make_scorer**
+- sklearn.ensemble.**RandomForestRegressor**
+- sklearn.linear_model.**LinearRegression**
+- sklearn.model_selection.**cross_val_score**
+- sklearn.dummy.**DummyRegressor**
+- sklearn.tree.**DecisionTreeRegressor**
+- sklearn.model_selection.**GridSearchCV**
+
 ## Ход исследования
 
 Подготовьте прототип модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий.
