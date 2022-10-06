@@ -5,10 +5,11 @@
 Вам предоставлены пробы нефти в трёх регионах. Характеристики для каждой скважины в регионе уже известны. Постройте модель для определения региона, где добыча принесёт наибольшую прибыль.
 
 ## Навыки и инструменты
-- **python**
+
 - **pandas**
 - **numpy**
 - **scipy**
+- **matplotlib**
 - sklearn.model_selection.**cross_val_score**
 - sklearn.metrics.**mean_squared_error**
 - sklearn.metrics.**mean_absolute_error**
@@ -16,7 +17,6 @@
 - sklearn.linear_model.**LinearRegression**
 - sklearn.tree.**DecisionTreeRegressor**
 - sklearn.ensemble.**RandomForestRegressor**
-- **matplotlib**
 
 ## Цель исследования
 
