@@ -17,7 +17,7 @@
 - sklearn.tree.**DecisionTreeClassifier**
 - nltk.tokenize.**word_tokenize**
 - nltk.stem.**WordNetLemmatizer**
-- sklearn.model_selection.**train_test_split
+- sklearn.model_selection.**train_test_split**
 - sklearn.feature_extraction.text.**TfidfVectorizer**
 - sklearn.linear_model.**LogisticRegression**
 - sklearn.metrics.**f1_score**
