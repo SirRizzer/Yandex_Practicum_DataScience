@@ -4,6 +4,19 @@
 
 В вашем распоряжении данные о поведении клиентов, которые уже перешли на эти тарифы. Нужно построить модель для задачи классификации, которая выберет подходящий тариф. 
 
+## Навыки и инструменты
+
+- **pandas**
+- **matplotlib**
+- **seaborn**
+- sklearn.metrics.**accuracy_score**
+- sklearn.metrics.**classification_report**
+- sklearn.model_selection.**train_test_split**
+- sklearn.ensemble.**RandomForestClassifier**
+- sklearn.tree.**DecisionTreeClassifier**
+- sklearn.linear_model.**LogisticRegression**
+- sklearn.dummy.**DummyClassifier**
+
 ## Цель исследования
 
 Построить модель с максимально большим значением accuracy. 
