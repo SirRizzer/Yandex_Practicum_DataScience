@@ -9,6 +9,22 @@
 
 Постройте модель с предельно большим значением F1-меры
 
+## Навыки и инструменты
+
+- **pandas**
+- **matplotlib**
+- sklearn.metrics.**shuffle**
+- sklearn.metrics.**accuracy_score**
+- sklearn.metrics.**f1_score**
+- sklearn.metrics.**roc_auc_score**
+- sklearn.metrics.**roc_curve**
+- sklearn.model_selection.**train_test_split**
+- sklearn.preprocessing.**StandardScaler**
+- sklearn.ensemble.**RandomForestClassifier**
+- sklearn.tree.**DecisionTreeClassifier**
+- sklearn.linear_model.**LogisticRegression**
+- sklearn.dummy.**DummyClassifier**
+
 ## Описание данных
 
 ### Признаки
